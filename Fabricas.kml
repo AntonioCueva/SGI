@@ -36,86 +36,86 @@
 		<Placemark>
 			<name>Asturiana de Zinc</name>
 			<LookAt>
-				<longitude>-5.933505961092712</longitude>
-				<latitude>43.57904613693615</latitude>
+				<longitude>-5.931614196989394</longitude>
+				<latitude>43.58593505621189</latitude>
 				<altitude>0</altitude>
-				<heading>-1.268385200716498</heading>
-				<tilt>14.49037465158709</tilt>
-				<range>1597.609661644967</range>
+				<heading>-1.267080733014117</heading>
+				<tilt>14.47318234772518</tilt>
+				<range>1601.008383104653</range>
 				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
 			</LookAt>
 			<styleUrl>#m_ylw-pushpin</styleUrl>
 			<Point>
 				<gx:drawOrder>1</gx:drawOrder>
-				<coordinates>-5.93327183398591,43.58238063765502,0</coordinates>
+				<coordinates>-5.931563700677223,43.58764897453734,0</coordinates>
 			</Point>
 		</Placemark>
 		<Placemark>
 			<name>Arcelor Mittal Aviles</name>
 			<LookAt>
-				<longitude>-5.90150123456907</longitude>
-				<latitude>43.55662105425795</latitude>
+				<longitude>-5.89830609495894</longitude>
+				<latitude>43.5560008666556</latitude>
 				<altitude>0</altitude>
-				<heading>-1.247154730892282</heading>
-				<tilt>24.03784225034289</tilt>
-				<range>2077.446602430448</range>
+				<heading>-1.244960564079501</heading>
+				<tilt>28.11472654471662</tilt>
+				<range>1424.006469587699</range>
 				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
 			</LookAt>
 			<styleUrl>#m_ylw-pushpin</styleUrl>
 			<Point>
 				<gx:drawOrder>1</gx:drawOrder>
-				<coordinates>-5.903728513806303,43.55553265052379,0</coordinates>
+				<coordinates>-5.899234454352519,43.55549068414954,0</coordinates>
 			</Point>
 		</Placemark>
 		<Placemark>
 			<name>Alcoa Aviles</name>
 			<LookAt>
-				<longitude>-5.91093963707107</longitude>
-				<latitude>43.58584169424882</latitude>
-				<altitude>0</altitude>
-				<heading>-1.253608991953768</heading>
-				<tilt>25.5024661343656</tilt>
-				<range>2024.957530104757</range>
+				<longitude>-5.913693383695209</longitude>
+				<latitude>43.58337741786669</latitude>
+				<altitude>16.1759464797923</altitude>
+				<heading>-1.254719511336192</heading>
+				<tilt>33.54402492767746</tilt>
+				<range>704.7322962156088</range>
 				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
 			</LookAt>
 			<styleUrl>#m_ylw-pushpin</styleUrl>
 			<Point>
 				<gx:drawOrder>1</gx:drawOrder>
-				<coordinates>-5.912278727420616,43.58321472603575,0</coordinates>
+				<coordinates>-5.915183534881674,43.58380656586144,0</coordinates>
 			</Point>
 		</Placemark>
 		<Placemark>
 			<name>Arcelor Mittal Gijon</name>
 			<LookAt>
-				<longitude>-5.721441582384838</longitude>
-				<latitude>43.53649331740957</latitude>
+				<longitude>-5.721291335942579</longitude>
+				<latitude>43.53785623843944</latitude>
 				<altitude>0</altitude>
-				<heading>-3.571905139374433</heading>
-				<tilt>29.48984486348761</tilt>
-				<range>1499.505428969541</range>
+				<heading>-3.571557084685808</heading>
+				<tilt>41.46960825102507</tilt>
+				<range>648.6992815103325</range>
 				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
 			</LookAt>
 			<styleUrl>#m_ylw-pushpin</styleUrl>
 			<Point>
 				<gx:drawOrder>1</gx:drawOrder>
-				<coordinates>-5.725335534793036,43.53549507580147,0</coordinates>
+				<coordinates>-5.722416508052824,43.53927865501496,0</coordinates>
 			</Point>
 		</Placemark>
 		<Placemark>
 			<name>EDP: Central Térmica de Soto Ribera</name>
 			<LookAt>
-				<longitude>-5.872763401028162</longitude>
-				<latitude>43.31250319787986</latitude>
+				<longitude>-5.872423989964927</longitude>
+				<latitude>43.31377441015189</latitude>
 				<altitude>0</altitude>
-				<heading>-0.1028266590846101</heading>
-				<tilt>20.08463043411096</tilt>
-				<range>954.6149362440488</range>
+				<heading>-0.1007785730723886</heading>
+				<tilt>33.35433686124524</tilt>
+				<range>1342.917864976649</range>
 				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
 			</LookAt>
 			<styleUrl>#m_ylw-pushpin</styleUrl>
 			<Point>
 				<gx:drawOrder>1</gx:drawOrder>
-				<coordinates>-5.874586807727463,43.31249249189029,0</coordinates>
+				<coordinates>-5.870356415493695,43.31068069547764,0</coordinates>
 			</Point>
 		</Placemark>
 		<Placemark>
